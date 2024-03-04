@@ -2,7 +2,7 @@
 
 Memakai google colabs
 
-# Run Stream Lit
+# Run Streamlit
 
 1. run [! pip install streamlit -q]
 2. run [!wget -q -O - ipv4.icanhazip.com], akan menghasilkan token tunnel
